@@ -4,9 +4,9 @@
     // DATABASE CONNECTION
     class Connection{
         public $host = "127.0.0.1";
-        public $user = "u510162695birms_db";
+        public $user = "u510162695_birms_db";
         public $password = "1Birms_db";
-        public $db_name = "u510162695birms_db";
+        public $db_name = "u510162695_birms_db";
         public $conn;
 
         public function __construct(){
